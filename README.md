@@ -22,3 +22,7 @@
 - [ ] Update footer no_rel links
 - [ ] Add made credis (pos-fixed) [Optional]
 - [ ] Add a sweet optimized custom preloader to landing page.
+
+<p align="center">
+  <img src="https://camo.githubusercontent.com/e8411bb8d036e541b7299ea0a5c47db49e28c4b2/68747470733a2f2f7765622e617263686976652e6f72672f7765622f32303039303732383231303435362f687474703a2f2f64652e67656f6369746965732e636f6d2f68656c6c6f6d616e34362f636f6e736261722e676966" />
+</p>
